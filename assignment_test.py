@@ -6,5 +6,5 @@ def test1():
   assert task1.result == "dog barked"
 
 def test3():
-  assert hasattr(task3, 'result'+ == false)
+  assert hasattr(task3, 'result') == False
   assert  len(task3.locals()) == 11 
